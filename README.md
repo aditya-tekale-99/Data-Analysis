@@ -1,5 +1,5 @@
-# Data-Science
-This repo contains all the projects related to Data Science
+## Data-Science
+
 
 
 # WORK IN PROGRESS
